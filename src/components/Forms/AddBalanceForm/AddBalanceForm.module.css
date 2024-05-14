@@ -1,0 +1,26 @@
+.formWrapper h3{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.formWrapper form{
+    display: flex;
+    flex-wrap: wrap;
+    gap:18px;
+}
+.formWrapper input{
+    background: #FBFBFB;
+    border:0;
+    outline:0;
+    color:#333;
+    font-size: 1rem;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+    padding:12px;
+    border-radius: 15px;
+    font-family: var(--font-body);
+    box-sizing: border-box;
+}
+@media(max-width:767px){
+    .formWrapper form{
+        flex-direction: column;
+    }
+}
