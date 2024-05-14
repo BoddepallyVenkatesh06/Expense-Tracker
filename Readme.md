@@ -28,7 +28,7 @@ Expense Tracker is a simple yet powerful tool designed to help users track their
 
 ## Screenshot
 
-![Expense Tracker]()
+![Expense Tracker](https://github.com/BoddepallyVenkatesh06/Expense-Tracker/blob/main/Screenshot_Expense_Tracker.png)
 
 ## Getting Started
 
