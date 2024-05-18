@@ -2,7 +2,7 @@
 
 Expense Tracker is a web application built to help users manage their expenses efficiently.
 
-## Table of Contents
+## Table of Contents📚
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -14,11 +14,11 @@ Expense Tracker is a web application built to help users manage their expenses e
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction🚀
 
 Expense Tracker is a simple yet powerful tool designed to help users track their expenses and maintain a budget. It provides an intuitive interface for recording transactions, categorizing expenses, and generating reports to analyze spending patterns.
 
-## Features
+## Features🛠️
 
 - Add, edit, and delete expenses
 - Categorize expenses for better organization
@@ -26,17 +26,17 @@ Expense Tracker is a simple yet powerful tool designed to help users track their
 - Generate reports and summaries of spending
 - User authentication for securing personal data
 
-## Screenshot
+## Screenshot📷
 
 ![Expense Tracker](https://github.com/BoddepallyVenkatesh06/Expense-Tracker/blob/main/Screenshot_Expense_Tracker.png)
 
-## Getting Started
+## Getting Started🎯
 
-### Prerequisites
+### Prerequisites📋
 
 Before you begin, ensure you have Node.js and npm installed on your system.
 
-### Installation
+### Installation⚙️
 
 1. Clone the repository:
 
@@ -51,7 +51,7 @@ cd expense-tracker
 npm install
 ```
 
-## Usage
+## Usage📈
 
 To start the development server, run:
 
@@ -69,7 +69,7 @@ npm run build
 
 This will create a production-ready build in the `build` directory.
 
-## Contributing
+## Contributing❤️
 
 Contributions are welcome! If you'd like to contribute to the Expense Tracker, please follow these steps:
 
